@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+### 2026
+
+**Subtractive Random Forests with Two Choices**  
+**Francisco Calvillo**, Luc Devroye, Gábor Lugosi  
+*Methodology and Computing in Applied Probability*, **28**, article 49 (2026).  
+[Journal article](https://doi.org/10.1007/s11009-026-10279-6) · [arXiv](https://arxiv.org/abs/2405.10455)
+
+### 2023
+
+**Archaeology of random recursive dags and Cooper–Frieze random networks**  
+Simon Briend, **Francisco Calvillo**, Gábor Lugosi  
+*Combinatorics, Probability and Computing*, **32**(6), 859–873 (2023).  
+[Journal article](https://doi.org/10.1017/S0963548323000184) · [arXiv](https://arxiv.org/abs/2207.14601)
+
+## Preprints and manuscripts
+
+### 2026
+
+**Testing properties of trees in graphical models with covariance queries**  
+Sofiya Burova, **Francisco Calvillo**, Gábor Lugosi, Piotr Zwiernik  
+Preprint (2026).  
+[arXiv:2605.15996](https://arxiv.org/abs/2605.15996)
+
+*Publication status and bibliographic details can be updated as new versions appear.*

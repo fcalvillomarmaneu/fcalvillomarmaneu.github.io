@@ -1,0 +1,10 @@
+---
+title: "Contact"
+---
+
+For academic inquiries or research collaborations, you can find my professional profile and projects through the following links.
+
+- **GitHub:** [fcalvillomarmaneu](https://github.com/fcalvillomarmaneu)
+- **Publications:** [View my publications](publications.qmd)
+
+An academic email address and ORCID profile link can be added here when you choose which contact details to publish.

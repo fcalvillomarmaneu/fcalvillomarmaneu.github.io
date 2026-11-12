@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$body-bg: #fcfdff;
+$body-color: #1b2c42;
+$primary: #215b7f;
+$link-color: #215b7f;
+$navbar-bg: #ffffff;
+$navbar-fg: #1b2c42;
+$navbar-hl: #215b7f;
+$border-radius: 0.6rem;
+
+/*-- scss:rules --*/
+body { font-size: 1.02rem; line-height: 1.72; }
+#quarto-content { padding-bottom: 2.5rem; }
+.navbar { border-bottom: 1px solid #e8edf4; box-shadow: 0 2px 10px rgba(20,35,52,.025); }
+.navbar-brand { font-weight: 750; letter-spacing: -.02em; }
+.navbar .nav-link { font-size: .95rem; }
+h1, h2, h3 { color: #152b40; letter-spacing: -.025em; }
+h2 { margin-top: 2.1rem; font-size: 1.48rem; }
+h3 { font-size: 1.1rem; }
+a:not(.btn) { text-underline-offset: 3px; }
+
+.hero { display: flex; gap: clamp(1.5rem, 5vw, 5rem); align-items: center; padding: 3.1rem 0 2.1rem; }
+.hero-copy { flex: 1; min-width: 0; }
+.eyebrow { font-size: .72rem; letter-spacing: .16em; font-weight: 750; color: #477d94; }
+.hero-title { font-size: clamp(2.5rem, 6vw, 4.35rem); line-height: 1.09; margin: .45rem 0 .3rem; font-weight: 750; }
+.hero-subtitle { font-size: 1.13rem; font-weight: 580; color: #567083; margin-bottom: 1.15rem; }
+.hero-copy p { max-width: 690px; }
+.hero-copy .btn { margin-bottom: .45rem; font-weight: 620; border-radius: .4rem; padding: .55rem 1rem; }
+.hero-monogram { width: 200px; height: 238px; flex: 0 0 200px; border-radius: 1rem; background: linear-gradient(145deg, #dcecf2, #eaf1f5 58%, #d9e3ec); border: 1px solid #d4e3ea; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 12px 24px rgba(23,61,89,.07); }
+.hero-monogram span { font-size: 4.5rem; font-weight: 680; color: #235c7d; letter-spacing: -.07em; }
+.hero-monogram small { font-size: .74rem; color: #637f91; }
+.feature-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.feature-card { border: 1px solid #e2eaf0; border-radius: .85rem; padding: 1.2rem 1.25rem; background: #fff; box-shadow: 0 5px 18px rgba(17,45,70,.028); }
+.feature-card h3 { margin-top: 0; }
+.feature-card p { margin-bottom: 0; color: #496173; font-size: .96rem; }
+.text-link { font-weight: 650; }
+main.content { max-width: 980px; }
+.quarto-title { margin-bottom: 1.5rem; }
+.page-footer { border-top: 1px solid #e8edf4; }
+@media (max-width: 760px) {
+  .hero { flex-direction: column-reverse; align-items: flex-start; padding-top: 1.5rem; }
+  .hero-monogram { width: 100%; height: 125px; flex-basis: auto; }
+  .hero-monogram span { font-size: 2.7rem; }
+  .feature-grid { grid-template-columns: 1fr; }
+}

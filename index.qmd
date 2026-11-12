@@ -1,0 +1,53 @@
+---
+title: "Francisco Calvillo"
+title-block-style: none
+---
+
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">MATHEMATICS · PROBABILITY · RANDOM STRUCTURES</p>
+
+# Francisco Calvillo {.hero-title}
+
+<p class="hero-subtitle">PhD in Mathematics · Sorbonne Université</p>
+
+I am a mathematician working in probability, random graphs, and statistical inference. My research explores the structure of random networks, the information needed to recover their properties, and probabilistic models for complex systems.
+
+[Explore my research](research.qmd){.btn .btn-primary .me-2} [Read publications](publications.qmd){.btn .btn-outline-primary}
+:::
+
+::: {.hero-monogram}
+<span>FC</span>
+<small>Mathematics &amp; Probability</small>
+:::
+:::
+
+## Research interests
+
+::: {.feature-grid}
+::: {.feature-card}
+### Random graphs
+
+Random recursive structures, network archaeology, root finding, and evolving networks.
+:::
+::: {.feature-card}
+### Statistical inference
+
+Graphical models, property testing, and efficient use of covariance queries.
+:::
+::: {.feature-card}
+### Quantum error correction
+
+Developing research interests in quantum codes and probabilistic decoding methods.
+:::
+:::
+
+## Selected work
+
+**[Testing properties of trees in graphical models with covariance queries](https://arxiv.org/abs/2605.15996)**  
+S. Burova, F. Calvillo, G. Lugosi, and P. Zwiernik · Preprint, 2026
+
+**[Subtractive Random Forests with Two Choices](https://doi.org/10.1007/s11009-026-10279-6)**  
+F. Calvillo, L. Devroye, and G. Lugosi · *Methodology and Computing in Applied Probability*, 2026
+
+[See all publications →](publications.qmd){.text-link}

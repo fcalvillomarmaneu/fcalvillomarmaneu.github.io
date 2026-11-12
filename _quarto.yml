@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Francisco Calvillo"
+  site-url: "https://fcalvillomarmaneu.github.io/"
+  description: "Academic website of Francisco Calvillo, PhD in Mathematics."
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/fcalvillomarmaneu
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Francisco Calvillo"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+  open-graph: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: false

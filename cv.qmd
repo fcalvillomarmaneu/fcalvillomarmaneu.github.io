@@ -1,0 +1,27 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+
+**PhD in Mathematics** — Sorbonne Université, Paris (2026)  
+Research in probability and random structures.  
+Supervisors: Gábor Lugosi and Nicolas Broutin.
+
+**Master's degree (M2)** — Université Paris-Saclay  
+
+**Master's studies (M1)** — Sorbonne Université / École normale supérieure, Paris  
+
+**Licence (L3)** — Sorbonne Université / École normale supérieure, Paris
+
+## Research interests
+
+Probability theory · Random graphs · Graphical models · Statistical inference · Quantum error correction
+
+## Publications
+
+See the complete [publications list](publications.qmd).
+
+## Full CV (PDF)
+
+A downloadable academic CV will be linked here after the PDF is added to the repository.

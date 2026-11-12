@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+---
+
+I am interested in teaching probability, statistics, mathematics, and related quantitative subjects at university level.
+
+## Teaching experience
+
+**Mathematics Brush-up · Barcelona School of Economics**  
+Teaching mathematics to graduate-level economics students.
+
+My teaching interests include probability theory, mathematical statistics, discrete mathematics, and applications of mathematics to data and networks.
+
+*Further course details and teaching materials can be added to this page.*
