@@ -3,6 +3,13 @@ title: "Francisco Calvillo"
 title-block-style: none
 ---
 
+<style>
+/* En esta portada usamos el encabezado personalizado, no el título automático de Quarto. */
+#title-block-header { display: none !important; }
+/* Reduce la separación entre la barra de navegación y la presentación. */
+.hero { padding-top: 1.3rem !important; }
+</style>
+
 ::: {.hero}
 ::: {.hero-copy}
 <p class="eyebrow">MATHEMATICS · PROBABILITY · RANDOM STRUCTURES</p>
@@ -16,10 +23,10 @@ title-block-style: none
 [Explore my research](research.qmd){.btn .btn-primary .me-2} [Read publications](publications.qmd){.btn .btn-outline-primary}
 :::
 
-::: {.hero-monogram}
-<span>FC</span>
-<small>Mathematics &amp; Probability</small>
-:::
+<div class="hero-monogram">
+  <span>FC</span>
+  <small style="display:block; text-align:center; padding:0 0.6rem; line-height:1.4;">Mathematics &amp; Probability</small>
+</div>
 :::
 
 ## Research interests
