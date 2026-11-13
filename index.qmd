@@ -11,7 +11,7 @@ title-block-style: none
 
 <p class="hero-subtitle">PhD in Mathematics · Sorbonne Université</p>
 
-I am a mathematician working in probability, random graphs, and statistical inference. My research explores the structure of random networks, the information needed to recover their properties, and probabilistic models for complex systems.
+<p class="hero-intro" style="font-size: 1.05rem !important; line-height: 1.7 !important; font-weight: 400 !important; letter-spacing: normal !important; max-width: 680px;">I am a mathematician working in probability, random graphs, and statistical inference. My research explores the structure of random networks, the information needed to recover their properties, and probabilistic models for complex systems.</p>
 
 [Explore my research](research.qmd){.btn .btn-primary .me-2} [Read publications](publications.qmd){.btn .btn-outline-primary}
 :::
