@@ -1,16 +1,9 @@
 ---
-title: "Francisco Calvillo"
+pagetitle: "Francisco Calvillo | Academic Website"
 title-block-style: none
 ---
 
-<style>
-/* En esta portada usamos el encabezado personalizado, no el título automático de Quarto. */
-#title-block-header { display: none !important; }
-/* Reduce la separación entre la barra de navegación y la presentación. */
-.hero { padding-top: 1.3rem !important; }
-</style>
-
-::: {.hero}
+::: {.hero style="padding-top: 0.8rem; padding-bottom: 1.2rem;"}
 ::: {.hero-copy}
 <p class="eyebrow">MATHEMATICS · PROBABILITY · RANDOM STRUCTURES</p>
 
@@ -18,15 +11,10 @@ title-block-style: none
 
 <p class="hero-subtitle">PhD in Mathematics · Sorbonne Université</p>
 
-<p class="hero-intro" style="font-size: 1.05rem !important; line-height: 1.7 !important; font-weight: 400 !important; letter-spacing: normal !important; max-width: 680px;">I am a mathematician working in probability, random graphs, and statistical inference. My research explores the structure of random networks, the information needed to recover their properties, and probabilistic models for complex systems.</p>
+<p class="hero-intro" style="font-size: 1.05rem; line-height: 1.7; font-weight: 400; letter-spacing: normal; max-width: 690px;">I am a mathematician working in probability, random graphs, and statistical inference. My research explores the structure of random networks, the information needed to recover their properties, and probabilistic models for complex systems.</p>
 
 [Explore my research](research.qmd){.btn .btn-primary .me-2} [Read publications](publications.qmd){.btn .btn-outline-primary}
 :::
-
-<div class="hero-monogram">
-  <span>FC</span>
-  <small style="display:block; text-align:center; padding:0 0.6rem; line-height:1.4;">Mathematics &amp; Probability</small>
-</div>
 :::
 
 ## Research interests
