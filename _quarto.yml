@@ -25,7 +25,6 @@ website:
         aria-label: GitHub
   page-footer:
     left: "© 2026 Francisco Calvillo"
-    right: "Built with Quarto · Hosted on GitHub Pages"
   open-graph: true
   back-to-top-navigation: true
 
