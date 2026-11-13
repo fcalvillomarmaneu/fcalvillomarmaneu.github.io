@@ -23,10 +23,10 @@ website:
       - text: Contact
         href: contact.qmd
     right:
-      - icon: mortarboard
+      - icon: googlescholar.svg
         href: https://scholar.google.com/citations?user=7EGKdOsAAAAJ
         target: _blank
-      - icon: file-earmark-text
+      - icon: arxiv-logomark-small.svg
         href: https://arxiv.org/a/calvillo_f_1.html
         target: _blank
       - icon: linkedin
