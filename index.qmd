@@ -7,7 +7,7 @@ title-block-style: none
 ::: {.hero-copy}
 <p class="eyebrow">MATHEMATICS · PROBABILITY · RANDOM STRUCTURES</p>
 
-# Francisco Calvillo {.hero-title}
+<h1 class="hero-title">Francisco Calvillo</h1>
 
 <p class="hero-subtitle">PhD in Mathematics · Sorbonne Université</p>
 
