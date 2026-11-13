@@ -5,6 +5,7 @@ project:
     - CVweb.pdf
     - arxiv-logomark-small.svg
     - googlescholar.svg
+    - orcid.svg
 
 website:
   title: "Francisco Calvillo"
@@ -35,6 +36,11 @@ website:
 
       - icon: linkedin
         href: https://www.linkedin.com/in/francisco-calvillo-marmaneu-60202626a/
+        target: _blank
+
+      - text: "![](orcid.svg){height=1.2em}"
+        href: https://orcid.org/0009-0002-4474-8259
+        aria-label: ORCID
         target: _blank
   page-footer:
     left: "© 2026 Francisco Calvillo"
