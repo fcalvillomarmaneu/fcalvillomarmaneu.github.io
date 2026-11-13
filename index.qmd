@@ -37,12 +37,3 @@ Developing research interests in quantum codes and probabilistic decoding method
 :::
 :::
 
-## Selected work
-
-**[Testing properties of trees in graphical models with covariance queries](https://arxiv.org/abs/2605.15996)**  
-S. Burova, F. Calvillo, G. Lugosi, and P. Zwiernik · Preprint, 2026
-
-**[Subtractive Random Forests with Two Choices](https://doi.org/10.1007/s11009-026-10279-6)**  
-F. Calvillo, L. Devroye, and G. Lugosi · *Methodology and Computing in Applied Probability*, 2026
-
-[See all publications →](publications.qmd){.text-link}
