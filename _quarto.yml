@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: _site
-  ressources:
+  resources:
     -CVweb.pdf
 
 website:
