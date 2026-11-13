@@ -25,12 +25,14 @@ website:
       - text: Contact
         href: contact.qmd
     right:
-      - text: "![](/images/googlescholar.svg){height=1.2em}"
+      - text: "![](/googlescholar.svg){height=1.2em}"
         href: https://scholar.google.com/citations?user=7EGKdOsAAAAJ
         target: _blank
-      - text: "![](/images/arxiv-logomark-small.svg){height=1.2em}"
+
+      - text: "![](/arxiv-logomark-small.svg){height=1.2em}"
         href: https://arxiv.org/a/calvillo_f_1.html
         target: _blank
+
       - icon: linkedin
         href: https://www.linkedin.com/in/francisco-calvillo-marmaneu-60202626a/
         target: _blank
