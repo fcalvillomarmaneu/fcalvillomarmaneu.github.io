@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  ressources:
+    -CVweb.pdf
 
 website:
   title: "Francisco Calvillo"
