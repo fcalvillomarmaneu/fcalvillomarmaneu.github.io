@@ -23,9 +23,15 @@ website:
       - text: Contact
         href: contact.qmd
     right:
-      - icon: github
-        href: https://github.com/fcalvillomarmaneu
-        aria-label: GitHub
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=7EGKdOsAAAAJ
+        target: _blank
+      - icon: file-earmark-text
+        href: https://arxiv.org/a/calvillo_f_1.html
+        target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francisco-calvillo-marmaneu-60202626a/
+        target: _blank
   page-footer:
     left: "© 2026 Francisco Calvillo"
   open-graph: true
