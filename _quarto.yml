@@ -25,10 +25,10 @@ website:
       - text: Contact
         href: contact.qmd
     right:
-      - icon: googlescholar.svg
+      - text: "![](/images/googlescholar.svg){height=1.2em}"
         href: https://scholar.google.com/citations?user=7EGKdOsAAAAJ
         target: _blank
-      - icon: arxiv-logomark-small.svg
+      - text: "![](/images/arxiv-logomark-small.svg){height=1.2em}"
         href: https://arxiv.org/a/calvillo_f_1.html
         target: _blank
       - icon: linkedin
