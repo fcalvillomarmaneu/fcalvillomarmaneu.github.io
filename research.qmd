@@ -2,22 +2,8 @@
 title: "Research"
 ---
 
-My research lies at the intersection of **probability theory, random discrete structures, and statistical inference**. I am interested in how much information is needed to recover features of networks and other probabilistic models.
+My research interests lie in probability theory and statistics, particularly in random graphs, discrete random structures, and statistical inference. I am especially interested in inference problems on networks and in understanding what can be learned about a random structure from limited observations.
 
-## Random graphs and network archaeology
-
-I have studied root finding in growing random networks, including recursive directed acyclic graphs and Cooper–Frieze random networks. This work asks how to identify the origin of a network from its observed structure.
-
-## Statistical inference and graphical models
-
-A recent direction concerns **testing structural properties of trees** underlying graphical models using covariance queries. The objective is to estimate or test global properties efficiently without necessarily reconstructing the full graph.
-
-## Sequential random models
-
-I have also worked on subtractive random forests and models motivated by sequential recommendation systems, studying their long-term probabilistic behavior.
-
-## Emerging interests: quantum error correction
-
-I am developing interests in quantum error-correcting codes, decoding algorithms, and probabilistic and combinatorial methods relevant to quantum information.
+My work has included recovering the origins of growing random networks, studying random forests arising from sequential choice mechanisms, and testing structural properties of latent trees in graphical models using covariance queries. My interests also include probabilistic and combinatorial aspects of quantum error correction.
 
 For papers and preprints, see [Publications](publications.qmd).
