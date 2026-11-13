@@ -3,6 +3,8 @@ project:
   output-dir: _site
   resources:
     -CVweb.pdf
+    -arxiv-logomark-small.svg
+    -googlescholar.svg
 
 website:
   title: "Francisco Calvillo"
