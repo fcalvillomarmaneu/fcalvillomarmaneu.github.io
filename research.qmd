@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-My research interests lie in probability theory and statistics, particularly in random graphs, discrete random structures, and statistical inference. I am especially interested in inference problems on networks and in understanding what can be learned about a random structure from limited observations.
-
-My work has included recovering the origins of growing random networks, studying random forests arising from sequential choice mechanisms, and testing structural properties of latent trees in graphical models using covariance queries. My interests also include probabilistic and combinatorial aspects of quantum error correction.
+My research interests lie in probability theory and statistics, particularly in random graphs, discrete random structures, statistical inference, and probabilistic aspects of quantum error correction. I am especially interested in inference problems on networks and in understanding what can be learned about a random structure from limited observations. More broadly, I am interested in the interplay between probabilistic models, combinatorial structures, and the development of efficient methods for studying their properties. This includes questions of reconstruction, estimation, and hypothesis testing, as well as the asymptotic behavior of random systems.
 
 For papers and preprints, see [Publications](publications.qmd).
